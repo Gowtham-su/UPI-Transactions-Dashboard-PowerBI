@@ -66,8 +66,8 @@ This Power BI project analyzes **[UPI TRANSACTION DATASET]** using real-world da
 
 > *(Include images of your Power BI dashboard – you can export or take screenshots and upload them to your GitHub repo. Then embed them like this:)*
 
-![Dashboard Screenshot](screenshots/upi transactions page 1.PNG)
-![Transaction Details](screenshots/upi transactions page 2.PNG)
+![Dashboard Screenshot](https://github.com/Gowtham-su/UPI-Transactions-Dashboard-PowerBI/blob/main/screenshots/upi%20transactions%20page%201.PNG)
+![Transaction Details](https://github.com/Gowtham-su/UPI-Transactions-Dashboard-PowerBI/blob/main/screenshots/upi%20transactions%20page%202.PNG)
 
 ---
 
